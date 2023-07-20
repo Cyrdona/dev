@@ -170,7 +170,10 @@ const socialMediaLinks = {
 };
 
 
-const skillsSection = { .... }
+const skillsSection = { 
+  
+
+ }
 
 const techStack = { .... }
 

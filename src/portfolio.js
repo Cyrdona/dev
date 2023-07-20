@@ -52,13 +52,9 @@ const skillsSection = {
   title: "Ce que je fais ",
   subTitle: "UN DEVELOPPEUR AMOUREUX DE LA TECH QUI VEUT EXPLORER TOUTES LES TECHNOLOGIES",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
+    emoji("⚡ Développer des interfaces utilisateur hautement interactives pour vos applications web et mobiles."),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
